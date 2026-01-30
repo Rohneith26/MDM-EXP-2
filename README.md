@@ -85,11 +85,6 @@
       text-shadow: 2px 2px 6px black;
     }
 
-    #delhi:checked ~ .delhi,
-    #agra:checked ~ .agra,
-    #mumbai:checked ~ .mumbai,
-    #jaipur:checked ~ .jaipur,
-    #hyderabad:checked ~ .hyderabad {
       display: block;
     }
 
