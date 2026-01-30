@@ -9,7 +9,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: linear-gradient(to right, #eef2f3, #dfe9f3);
+      background: linear-gradient
       text-align: center;
     }
 
